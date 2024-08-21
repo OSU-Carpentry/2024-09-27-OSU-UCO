@@ -19,7 +19,7 @@ email: ["danielle.kirsch@okstate.edu"]    # boxed, comma-separated list of conta
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
-<a id="s_lc_event_8789302" href="https://okstate.libcal.com/calendar/events/unixpy_carpfa24">Regsiter Here!</a>
+<a id="s_lc_event_8789302" href="https://okstate.libcal.com/calendar/events/unixpy_carpfa24">Register Here!</a>
 <style>
 #s_lc_event_8789302 {
   background: #FF7300;
